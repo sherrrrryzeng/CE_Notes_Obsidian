@@ -1,0 +1,77 @@
+{
+  "editing-toolbar:workplace-fullscreen-focus": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-minimal-settings:toggle-minimal-focus-mode": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "H"
+    }
+  ],
+  "zenmode:toggle-zen-mode": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Z"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ]
+}
