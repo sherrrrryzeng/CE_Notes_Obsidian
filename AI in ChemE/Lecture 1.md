@@ -86,14 +86,14 @@ Find patterns in unstructured data
 # Polynomial Regression
 ## Basics of Regression
 
-![[Pass/CP/Lecture 6#Linear Regression|Lecture 6]]
+![[Pass/CP/Q2/Lecture 6#Linear Regression|Lecture 6]]
 
 ![[35dd66056385f2a90d16b1c5ead2cede74311ceed855761bf527d685fff089f1.png]]
 
 
 ## Overfitting and Underfitting
 
-![[Pass/CP/Lecture 6#Polynomial Regression|Lecture 6]]
+![[Pass/CP/Q2/Lecture 6#Polynomial Regression|Lecture 6]]
 
 
 ![[fbad01c8e3f704d6b40d34fee5853b76335191b7433c009e17a1ef7d7696f50b.png]]
