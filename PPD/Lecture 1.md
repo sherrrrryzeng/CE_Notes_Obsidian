@@ -22,3 +22,7 @@ aliases:
 3. Feasibility
 4. Manufacturing
 5. Product introduction
+
+
+## Belbin Team Roles
+![[4536ea9419856645dcba353c74b2c344a926ba1a6d55c87fbe15b7b5861b6dcf.png]]
