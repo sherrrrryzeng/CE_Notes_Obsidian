@@ -105,3 +105,14 @@ Find patterns in unstructured data
 
 ![[74c0c7b66c0a76419c5d8c8df35de71edccc383918ffa7363c6fa0a6c2ed0c20.png]]
 Normalizing all features using scaling: $$z=\frac{x-\mu_{train}}{\sigma_{train}}$$Average and RMS(root mean square): $$\mu_{train}=\frac{\sum_{i=1}^{N_{train}}x_i}{N_{train}}\,\,\,\,\,\,\,\,\,\,\,\,\,\,\sigma_{train}=\sqrt{\frac{\sum_{i=1}^{N_{train}}(x_i-\mu_{train})^2}{N_{train}}}$$
+
+# Pandas
+
+- Head and Tail:
+	`data.head()` : display first five elements
+	`data.tail(3)` : display last three elements
+
+- To numpy array:
+	`data.to_numpy()` / `np.asarray(data)`
+
+
